@@ -2,7 +2,7 @@
 
 You can also call me **hana**.
 
-Game developer | MSCS @ New York University
+Game Developer | MSCS @ New York University
 
 I mainly work with **C++ and C#**, exploring game development, rendering, and procedural generation.
 
