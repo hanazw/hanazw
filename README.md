@@ -1,21 +1,27 @@
-### 👋 Hi! I'm ZeHua Wu (伍泽华)
+### 👋 Hi! I'm Zehua Wu (伍泽华)
+
+I also go by **hana**.
 
 Game Developer | MSCS @ New York University
 
-### 💻 Technical Focus
+[Website & Portfolio](https://hanazw.github.io/)
 
-Specializing in C++ and C#, working across Unity, Godot, and Unreal Engine.
+### Technical Focus
 
-### 🕹️ Selected Projects
+I mainly work with **C++ and C#**, with experience using **Unity, Unreal Engine, and Godot**.
 
-- [AssAssIn](https://hmxsqaq.github.io/projects/assassin.html) — Fast-paced two-player party game (course project)
-- [Just Suck](https://hmxsqaq.github.io/projects/just_suck.html) — Minimalist casual game (Third Prize, G-bits Game Jam 2023)
-- [C++ Software Renderer](https://hmxsqaq.github.io/projects/cpp_renderer.html) — Built a software renderer from scratch to understand the graphics pipeline
-- [Procedural Terrain Generation](https://hmxsqaq.github.io/projects/procedural_terrain_generation.html) — Exploring procedural generation with Perlin noise
-- [Hmxs Toolkit](https://github.com/hmxsqaq/Graphics-HmxsRenderer) — Reusable Unity modules and systems
+My interests include gameplay programming, software rendering, and procedural generation. I enjoy building things to understand how they work, then documenting what I learn.
 
-### 🌟 What I'm Up to Now
+### Selected Projects
 
-Diving deeper into graphics programming and pursuing my master's degree at NYU.
+- [HmxsRenderer](https://hanazw.github.io/en/projects/hmxs-renderer/) — A C++ software renderer with custom shaders, perspective-correct rasterization, and forward and deferred rendering paths.
+- [AssAssIn](https://hanazw.github.io/en/projects/assassin/) — A two-player party game. I worked on UI, enemy AI, tutorials, and gameplay feedback.
+- [Just Suck](https://hanazw.github.io/en/projects/just-suck/) — A 48-hour Unity game jam entry that won Third Prize at G-bits Game Jam 2023.
+- [World Piece](https://hanazw.github.io/en/projects/world-piece/) — A shape-manipulation puzzle game made for GMTK Game Jam 2024. I was the team's sole programmer.
+- [Procedural Terrain Generation](https://hanazw.github.io/en/projects/procedural-terrain/) — Exploring Perlin noise through 2D worlds and 3D terrain generation in Unity.
 
-**Let's create something extraordinary together!**
+### What I'm Up to Now
+
+Studying Computer Science at **NYU Courant** and continuing to explore graphics programming through projects and study notes.
+
+Feel free to say hello—about games, graphics, or something you're building!
