@@ -24,4 +24,4 @@ My interests include gameplay programming, software rendering, and procedural ge
 
 Studying Computer Science at **NYU Courant** and continuing to explore graphics programming through projects and study notes.
 
-Feel free to say hello—about games, graphics, or something you're building!
+Feel free to say hello — about games, graphics, or something you're building!
